@@ -63,7 +63,7 @@
 
   <text x="25" y="120">
     <tspan class="label">Host:</tspan>
-    <tspan x="260" class="value">Your PC</tspan>
+    <tspan x="260" class="value">thinkpad T14,nacmook air </tspan>
   </text>
 
   <text x="25" y="145">
@@ -72,8 +72,8 @@
   </text>
 
   <text x="25" y="170">
-    <tspan class="label">IDE:</tspan>
-    <tspan x="260" class="value">VS Code, Neovim</tspan>
+    <tspan class="label">CE:</tspan>
+    <tspan x="260" class="value">Vim, Neovim, Zed</tspan>
   </text>
 
 
@@ -83,7 +83,7 @@
 
   <text x="25" y="215">
     <tspan class="label">Languages.Programming:</tspan>
-    <tspan x="260" class="value">Python, C++, JavaScript</tspan>
+    <tspan x="260" class="value">Python, C++, JavaScript, TypeScipt, Rust, Dart</tspan>
   </text>
 
   <text x="25" y="240">
@@ -93,7 +93,7 @@
 
   <text x="25" y="265">
     <tspan class="label">Languages.Real:</tspan>
-    <tspan x="260" class="value">English</tspan>
+    <tspan x="260" class="value">English, Russian</tspan>
   </text>
 
 
