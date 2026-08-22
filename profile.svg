@@ -1,0 +1,157 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="700"
+     height="520"
+     viewBox="0 0 700 520">
+
+  <style>
+    .bg {
+      fill: #11111b;
+    }
+
+    text {
+      font-family: "Courier New", monospace;
+      font-size: 14px;
+      fill: #cdd6f4;
+    }
+
+    .username { fill: #89b4fa; font-weight: bold; }
+    .label    { fill: #fab387; font-weight: bold; }
+    .value    { fill: #cdd6f4; }
+    .green    { fill: #a6e3a1; }
+    .blue     { fill: #89b4fa; }
+    .red      { fill: #f38ba8; }
+    .purple   { fill: #cba6f7; }
+    .muted    { fill: #6c7086; }
+
+    .separator {
+      stroke: #6c7086;
+      stroke-width: 1;
+    }
+  </style>
+
+  <!-- Background -->
+  <rect class="bg"
+        x="0"
+        y="0"
+        width="700"
+        height="520"
+        rx="8"/>
+
+  <!-- ===================== -->
+  <!-- HEADER -->
+  <!-- ===================== -->
+
+  <text x="25" y="35" class="username">qutad</text>
+
+  <line x1="120" y1="30"
+        x2="675" y2="30"
+        class="separator"/>
+
+  <!-- ===================== -->
+  <!-- SYSTEM -->
+  <!-- ===================== -->
+
+  <text x="25" y="70">
+    <tspan class="label">OS:</tspan>
+    <tspan x="260" class="value">Linux, macOS</tspan>
+  </text>
+
+  <text x="25" y="95">
+    <tspan class="label">Uptime:</tspan>
+    <tspan x="260" class="value">3 years, 2 months, 14 days</tspan>
+  </text>
+
+  <text x="25" y="120">
+    <tspan class="label">Host:</tspan>
+    <tspan x="260" class="value">Your PC</tspan>
+  </text>
+
+  <text x="25" y="145">
+    <tspan class="label">Kernel:</tspan>
+    <tspan x="260" class="value">Developer</tspan>
+  </text>
+
+  <text x="25" y="170">
+    <tspan class="label">IDE:</tspan>
+    <tspan x="260" class="value">VS Code, Neovim</tspan>
+  </text>
+
+
+  <!-- ===================== -->
+  <!-- LANGUAGES -->
+  <!-- ===================== -->
+
+  <text x="25" y="215">
+    <tspan class="label">Languages.Programming:</tspan>
+    <tspan x="260" class="value">Python, C++, JavaScript</tspan>
+  </text>
+
+  <text x="25" y="240">
+    <tspan class="label">Languages.Computer:</tspan>
+    <tspan x="260" class="value">HTML, CSS, JSON, YAML</tspan>
+  </text>
+
+  <text x="25" y="265">
+    <tspan class="label">Languages.Real:</tspan>
+    <tspan x="260" class="value">English</tspan>
+  </text>
+
+
+  <!-- ===================== -->
+  <!-- HOBBIES -->
+  <!-- ===================== -->
+  <text x="25" y="310">
+    <tspan class="label">Hobbies.Software:</tspan>
+    <tspan x="260" class="value">Linux, Programming, AI</tspan>
+  </text>
+
+  <text x="25" y="335">
+    <tspan class="label">Hobbies.Hardware:</tspan>
+    <tspan x="260" class="value">PC Building, Overclocking</tspan>
+  </text>
+
+
+  <!-- ===================== -->
+  <!-- CONTACT -->
+  <!-- ===================== -->
+  <text x="25" y="380" class="muted">• Contact</text>
+
+  <line x1="115" y1="375"
+        x2="675" y2="375"
+        class="separator"/>
+
+  <text x="25" y="410">
+    <tspan class="label">GitHub:</tspan>
+    <tspan x="260" class="blue">@qutad</tspan>
+  </text>
+
+  <text x="25" y="435">
+    <tspan class="label">mail:</tspan>
+    <tspan x="260" class="purple">calyskyerwlll@proton.me</tspan>
+  </text>
+
+
+  <!-- ===================== -->
+  <!-- GITHUB STATS -->
+  <!-- ===================== -->
+  <text x="25" y="480" class="muted">• GitHub Stats</text>
+
+  <line x1="145" y1="475"
+        x2="675" y2="475"
+        class="separator"/>
+
+  <text x="25" y="505">
+    <tspan class="label">Repos:</tspan>
+    <tspan class="green"> 42</tspan>
+
+    <tspan x="180" class="label">Stars:</tspan>
+    <tspan class="blue"> 128</tspan>
+
+    <tspan x="330" class="label">Followers:</tspan>
+    <tspan class="purple"> 64</tspan>
+
+    <tspan x="520" class="label">Commits:</tspan>
+    <tspan class="red"> 1,337</tspan>
+  </text>
+
+</svg>
