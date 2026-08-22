@@ -9,7 +9,7 @@
     }
 
     text {
-      font-family: "Courier New", monospace;
+      font-family: "JetBrains Mono", monospace;
       font-size: 14px;
       fill: #cdd6f4;
     }
