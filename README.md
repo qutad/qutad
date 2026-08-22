@@ -1,14 +1,3 @@
-<img src="./profile.svg" width="100%" />
-
-```text
-             .--.                 qutad@github
-            |o_o |                ---------------------------------------
-            |:_/ |                OS: Linux, macOS
-           //   \ \               Host: GitHub, Codeberg
-          (|     | )              Kernel: Full-Stack Developer
-         /'\_   _/`\              Uptime: 3 years
-         \___)=(___/              Shell: zsh, bash
-                                  Languages: Python, C++, JS, Rust, Dart
-                                  CE: Vim, Nvim, Zed
-                                  
-```
+<p align="center">
+  <img src="./profile.svg" alt="Fastfetch-style GitHub profile" />
+</p>
