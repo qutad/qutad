@@ -142,16 +142,16 @@
 
   <text x="25" y="505">
     <tspan class="label">Repos:</tspan>
-    <tspan class="green"> 42</tspan>
+    <tspan class="green"> xx </tspan>
 
     <tspan x="180" class="label">Stars:</tspan>
-    <tspan class="blue"> 128</tspan>
+    <tspan class="blue"> x </tspan>
 
     <tspan x="330" class="label">Followers:</tspan>
-    <tspan class="purple"> 64</tspan>
+    <tspan class="purple"> x </tspan>
 
     <tspan x="520" class="label">Commits:</tspan>
-    <tspan class="red"> 1,337</tspan>
+    <tspan class="red"> xx </tspan>
   </text>
 
 </svg>
