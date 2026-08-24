@@ -58,7 +58,7 @@
 
   <text x="25" y="95">
     <tspan class="label">Uptime:</tspan>
-    <tspan x="260" class="value">3 years, 2 months, 14 days</tspan>
+    <tspan x="260" class="value">3 years, xx months, xx days</tspan>
   </text>
 
   <text x="25" y="120">
